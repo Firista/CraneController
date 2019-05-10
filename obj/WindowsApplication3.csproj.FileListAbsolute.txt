@@ -1,0 +1,8 @@
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\bin\Debug\WindowsApplication3.exe
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\bin\Debug\WindowsApplication3.pdb
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\ResolveAssemblyReference.cache
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\WindowsApplication3.Form1.resources
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\WindowsApplication3.Form2.resources
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\WindowsApplication3.csproj.GenerateResource.Cache
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\WindowsApplication3.exe
+E:\praca UWB\Podstawy modelowania i symulacji rozmytej (lab)\MOJE\CraneController\obj\Debug\WindowsApplication3.pdb
